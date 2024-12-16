@@ -172,7 +172,7 @@
   * Research funding
   * Innovation rewards
 
-# NEUROLOV TOKEN DOCUMENTATION (CONTINUED)
+
 
 ## III. MONTHLY EMISSION SCHEDULE (2024-2027)
 
