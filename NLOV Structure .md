@@ -176,9 +176,9 @@
 
 ## III. MONTHLY EMISSION SCHEDULE (2024-2027)
 
-### A. Year 1 (2024) Monthly Emissions
+### A. Year 1 (2025) Monthly Emissions
 
-1. **TGE & Month 1 (Q1 2024)**
+1. **TGE & Month 1 (Q1 2025)**
 - Initial Unlock (TGE): 39,500,000 NLOV (7.9%)
   * Public Sale: 5,250,000
   * Liquidity: 12,000,000
